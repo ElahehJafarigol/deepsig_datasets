@@ -29,6 +29,10 @@ Note: That example ClassifierJupyter notebook requires [some fixes](https://gith
 
 - [sofwerx/radioML_examples](https://github.com/sofwerx/radioML_examples)
 
+There is also another fork with updated Keras 2 and Theanos that claims 84% accuracy:
+
+- [mas-dse-greina/examples](https://github.com/mas-dse-greina/examples)
+
 ## DEEPSIG DATASET: RADIOML 2016.04C
 
 A synthetic dataset, generated with GNU Radio, consisting of 11 modulations. This is a variable-SNR dataset with moderate LO drift, light fading, and numerous different labeled SNR increments for use in measuring performance across different signal and noise power scenarios.
